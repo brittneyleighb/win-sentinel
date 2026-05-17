@@ -49,3 +49,6 @@ Do not upload:
 - API keys
 - win-sentinent-report.txt
 - personal system logs
+
+## Screenshots:
+
