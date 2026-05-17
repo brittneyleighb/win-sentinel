@@ -51,10 +51,10 @@ Do not upload:
 - personal system logs
 
 ## Screenshots:
-![Screenshot 1](images/screenshot.png)
+![Screenshot 1](screenshot.png)
 
-![Screenshot 2](images/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 
-![Screenshot 3](images/screenshot3.png)
+![Screenshot 3](screenshot3.png)
 
-![Screenshot 4](images/screenshot4.png)
+![Screenshot 4](screenshot4.png)
