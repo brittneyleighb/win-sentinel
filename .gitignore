@@ -1,0 +1,4 @@
+.env
+*.log
+win-sentinel-report.txt
+win-sentinel-ai.ps1
